@@ -1,0 +1,22 @@
+{
+  "name": "crossover",
+  "version": "0.0.1",
+  "main": "app.js",
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-ui-router": "0.2.x",
+    "bootstrap": "3.3.x"
+  }
+}
